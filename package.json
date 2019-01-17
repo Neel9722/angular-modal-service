@@ -29,7 +29,7 @@
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
     "angular": "~1.7.6",
-    "angular-mocks": "1.6.x",
+    "angular-mocks": "~1.7.6",
     "babel-loader": "^8.0.4",
     "chai": "^4.2.0",
     "istanbul-instrumenter-loader": "^3.0.1",
